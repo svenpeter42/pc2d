@@ -1,0 +1,39 @@
+name: pc2d
+channels:
+- ilastik
+- defaults
+dependencies:
+- futures=3.1.1=py27_0
+- h5py=2.7.0=np112py27_0
+- hdf5=1.8.17=1
+- jpeg=9b=0
+- libgfortran=3.0.0=1
+- libpng=1.6.27=0
+- libtiff=4.0.6=3
+- libxgboost=0.60=hdfa14d8_0
+- mkl=2017.0.1=0
+- nose=1.3.7=py27_1
+- numpy=1.12.1=py27_0
+- openssl=1.0.2l=0
+- pip=9.0.1=py27_1
+- py-xgboost=0.60=py27np112h0aae3cd_0
+- python=2.7.13=0
+- readline=6.2=2
+- scikit-learn=0.18.1=np112py27_1
+- scipy=0.19.0=np112py27_0
+- setuptools=27.2.0=py27_0
+- six=1.10.0=py27_0
+- sqlite=3.13.0=0
+- tk=8.5.18=0
+- wheel=0.29.0=py27_0
+- xz=5.2.2=1
+- zlib=1.2.8=3
+- boost=1.55.0=5
+- fastfilters=0.2.4.post33=py27_0_gb899b16
+- fftw=3.3.4=1
+- jbig=2.1=0
+- lemon=1.2.4=2
+- libgcc=4.8.5=19991
+- vigra=1.11.0.post222=np112py27_4_gab154c5
+prefix: /home/speter/miniconda3/envs/pc2d
+
